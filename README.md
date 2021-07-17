@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Data science and Machine Learning.
-- 🌱 I’m currently learning Statistics.
-- 💬 Ask me about Music and tech stuff.
-- 📫 How to reach me: Kaggle-@imnoob
-- 😄 Pronouns: He
-- ⚡ Fun fact: I have a YouTube channel
+### - 🔭 I’m currently working on Data science and Machine Learning.
+### - 🌱 I’m currently learning Statistics.
+### - 💬 Ask me about Music and tech stuff.
+### - 📫 How to reach me: Kaggle-@imnoob
+### - 🥅 2021 Goals: Contriibute more to open platforms.
+### - 😄 Pronouns: He
+### - ⚡ Fun fact: I have a YouTube channel
      Link- https://www.youtube.com/channel/UCecgpD941GcY9ikpbu0rYtw
 <br />
 
