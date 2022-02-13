@@ -5,7 +5,7 @@
 ### - 🌱 I’m currently learning Statistics.
 ### - 💬 Ask me about Music and tech stuff.
 ### - 📫 How to reach me: Kaggle-@imnoob
-### - 🥅 2021 Goals: Contriibute more to open platforms.
+### - 🥅 2022 Goals: Contribute more to open platforms/ Learn more.
 ### - 😄 Pronouns: He
 ### - ⚡ Fun fact: I have a YouTube channel
      Link- https://www.youtube.com/channel/UCecgpD941GcY9ikpbu0rYtw
