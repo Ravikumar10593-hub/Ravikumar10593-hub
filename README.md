@@ -2,7 +2,7 @@
 
 
 ### - 🔭 I’m currently working on Data science and Machine Learning.
-### - 🌱 I’m currently learning Statistics.
+### - 🌱 I’m currently learning DL & Rubik's Cube.
 ### - 💬 Ask me about Music and tech stuff.
 ### - 📫 How to reach me: Kaggle-@imnoob
 ### - 🥅 2022 Goals: Contribute more to open platforms/ Learn more.
