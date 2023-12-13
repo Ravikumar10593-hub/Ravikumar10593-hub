@@ -2,9 +2,10 @@
 
 
 ### - 🔭 I’m currently working on Data Science and Machine Learning.
+### - 👩‍💻 Check out my [Portfolio](https://ravikumar10593-hub.github.io/ravi_portfolio.github.io/)
 ### - 🌱 I’m currently learning how tech, business, and math can help us make better decisions.
 ### - ⚡ Fun fact: I have a [YouTube channel](https://www.youtube.com/raviscontent)
-### - 💯 Find my all handles: https://linktr.ee/ravikumar10593
+### - 💯 Find my all handles [here](https://linktr.ee/ravikumar10593)
 <br />
 
 
